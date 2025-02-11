@@ -1,8 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using S2__CA1_Web_API.Models;
-using S2__CA1_Web_API.Models.Entities;
 using System.Collections.Generic;
-namespace S2__CA1_Web_API.Data
+namespace S2__CA1_Web_API.Models
 {
     public class ApplicationDbContext : DbContext
     {

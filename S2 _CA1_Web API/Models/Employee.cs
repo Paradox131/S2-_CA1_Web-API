@@ -1,4 +1,4 @@
-﻿namespace S2__CA1_Web_API.Models.Entities
+﻿namespace S2__CA1_Web_API.Models
 {
     public class Employee
     {
