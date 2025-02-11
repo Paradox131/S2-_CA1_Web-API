@@ -2,7 +2,7 @@
 {
     public class Employer
     {
-        public Guid empId { get; set; }//-- Guid Globe unique identifier--//
+        public Guid Id { get; set; }//-- Guid Globe unique identifier--//
         public required string Title { get; set; } //-- input required --/
         public required string Email { get; set; } //-- input required --/
         public string? Phone { get; set; } //-- nullabe it can be left empty--//
